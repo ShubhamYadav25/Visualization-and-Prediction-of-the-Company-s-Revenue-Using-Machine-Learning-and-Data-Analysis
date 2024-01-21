@@ -1,3 +1,13 @@
+# Research Paper Summary
+
+## Title: Visualization and Prediction of the Company’s Revenue Using Machine Learning and Data Analysis
+
+📄 **Published in:** International Journal for Research in Applied Science and Engineering Technology (IJRASET)
+
+🔍 **Paper ID:** IJRASET48773, Volume 11, Issue 1, January 2023
+
+Excited to share my research exploring innovative approaches to visualize and predict company revenue using machine learning and data analysis. Check out the full paper in the International Journal for Research in Applied Science and Engineering Technology.
+
 ## 🚀 HOW TO RUN THIS PROJECT 🛠️
 
 1-> First download all required packages which will be used to run this project
