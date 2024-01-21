@@ -1,4 +1,4 @@
-********************* HOW TO RUN THIS PROJECT************************
+## 🚀 HOW TO RUN THIS PROJECT 🛠️
 
 1-> First download all required packages which will be used to run this project
 	 1) numpy 2)pandas 3)matplotlib 4)seaborn 5)sklearn 6)xgboost 7)math
@@ -9,13 +9,7 @@
 
 4-> For viewing the next image in serialize manner please close the current image and you can see the output in terminal window. 
 
-
-
-
-
-
-
-********************* ANOTHER WAY TO RUN THIS PROJECT WITH GOOGLE COLLABORATORY************************
+## 💻 ANOTHER WAY TO RUN THIS PROJECT WITH GOOGLE COLABORATORY 🚀
 
 1-> First step is to open the link -->    https://colab.research.google.com/drive/1FoYFZWnS6Sze774xg-U7gtJhcokcTiIF
 
